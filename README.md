@@ -7,11 +7,12 @@
 Bikeshare project
 
 ### Description
-The bikeshare project allows useres to explore US bike share data.
+The bikeshare project allows users to explore US bike share data.
 
 ### Files used
-Include the files used
+This project uses three files from the bikeshare project : chicago.csv, new_york_city.csv,
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Maintained by Udacity and Kriti Mahajan
 
