@@ -7,7 +7,7 @@ Include the date you created this project and README file.
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+The bikeshare project allows useres to explore US bike share data.
 
 ### Files used
 Include the files used
