@@ -14,5 +14,5 @@ This project uses three files from the bikeshare project : chicago.csv, new_york
 washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Maintained by Udacity and Kriti Mahajan
 
