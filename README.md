@@ -7,7 +7,7 @@
 Bikeshare project
 
 ### Description
-The bikeshare project allows useres to explore US bike share data.
+The bikeshare project allows users to explore US bike share data.
 
 ### Files used
 Include the files used
